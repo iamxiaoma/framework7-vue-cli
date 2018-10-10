@@ -30,7 +30,7 @@ npm run lint
 npm run test:unit
 ```
 
-基础脚手架支持的功能：
+### 基础脚手架支持的功能：
 #### 0、基于 vue-cli3 构建
 #### 1、Framework7-Vue 
 #### 2、微信公众号分享参数自定义设置，解决了微信公众号网页分享 iOS 和 Android 不同版本下效果不一致的问题
