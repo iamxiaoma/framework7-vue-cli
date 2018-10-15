@@ -1,6 +1,7 @@
 {
   "name": "framework7-vue-cli",
   "version": "0.1.0",
+  "author": "iamxiaoma<395487290@qq.com>",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
